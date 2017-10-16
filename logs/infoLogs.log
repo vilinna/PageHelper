@@ -1,0 +1,4 @@
+20:17:26.576 DEBUG  MyTest test1 14 - debug level
+20:17:26.577 INFO   MyTest test1 15 - info level
+20:17:26.577 WARN   MyTest test1 16 - warn level
+20:17:26.577 ERROR  MyTest test1 17 - error level
